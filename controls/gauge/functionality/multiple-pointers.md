@@ -3,9 +3,10 @@ title: Multiple Pointers
 page_title: Multiple Pointers - RadGauge
 description: Check our Web Forms article about Multiple Pointers.
 slug: gauge/gauge-types/multiple-pointers
+previous_url: controls/gauge/gauge-types/multiple-pointers
 tags: multiple,pointers
 published: True
-position: 2
+position: 0
 ---
 
 # Multiple Pointers
@@ -14,7 +15,7 @@ As for **Q1 2015**, you can add multiple pointers in a	RadGauge control by using
 
 >caption Figure 1: Multiple pointers in Linear Gauge and Radial Gauge.
 
-![gauge-multiple-pointers](images/gauge-multiple-pointers.png)
+![gauge-multiple-pointers](../images/gauge-multiple-pointers.png)
 
 ## Adding Pointers
 
