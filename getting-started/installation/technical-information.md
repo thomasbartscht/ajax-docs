@@ -5,7 +5,6 @@ description: "Check the system requirements for working with the Telerik UI for 
 slug: introduction/radcontrols-for-asp.net-ajax-fundamentals/system-requirements-and-browser-support
 previous_url: introduction-system-requirements, general-information/technical-information
 tags: system, requirements, and, browser, support, compliance, localization, accessibility, rtl
-previous_url: general-information/technical-information
 published: True
 position: 0
 ---
