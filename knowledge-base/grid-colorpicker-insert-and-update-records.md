@@ -10,12 +10,12 @@ res_type: kb
 
  
 
-   |   **Article information**  |
-| --- |
- |   Article relates to  |   RadColorPicker for ASP.NET AJAX Q3 2009 SP2  |
- |   Created by  |   Fiko, Telerik  |
- |   Last modified  |   February 26, 2009  |
- |   Last modified by  |   Fiko, Telerik  |
+|   **Article information**  | |
+| --- | --- |
+|   Article relates to  |   RadColorPicker for ASP.NET AJAX Q3 2009 SP2  |
+|   Created by  |   Fiko, Telerik  |
+|   Last modified  |   February 26, 2009  |
+|   Last modified by  |   Fiko, Telerik  |
   
    
  **HOW TO**  
