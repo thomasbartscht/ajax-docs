@@ -26,10 +26,7 @@ the DataBase and updating an existing record are shown in the attached projects.
  **DESCRIPTION**  
 
 The MSSQL server does not have a type that corresponds to the *System.Drawing.Color* type in .NET. The **RadColorPicker** control works with that .NET type, however.   
-   
-   
-   
- ![](/images/PurchaseGrid/RadControls%20%27%27Prometheus%27%27%20for%20ASP.NET.gif)  
+<!-- ![](/images/PurchaseGrid/RadControls%20%27%27Prometheus%27%27%20for%20ASP.NET.gif)   -->
    
  **  
 
