@@ -25,8 +25,8 @@ The following help article demonstrates how to set up a page with a **RadRadioBu
 
 		<telerik:RadRadioButtonList ID="RadRadioButtonList1" runat="server">
 			<Items>
-				<telerik:RadioButtonListItem Text="Accept" Value="0" Selected="true" />
-				<telerik:RadioButtonListItem Text="Decline" Value="1" />
+				<telerik:ButtonListItem Text="Accept" Value="0" Selected="true" />
+				<telerik:ButtonListItem Text="Decline" Value="1" />
 			</Items>
 		</telerik:RadRadioButtonList>
 
@@ -36,8 +36,8 @@ The following help article demonstrates how to set up a page with a **RadRadioBu
 
 		<telerik:RadRadioButtonList ID="RadRadioButtonList1" runat="server" OnSelectedIndexChanged="RadRadioButtonList1_SelectedIndexChanged">
 			<Items>
-				<telerik:RadioButtonListItem Text="Accept" Value="0" Selected="true" />
-				<telerik:RadioButtonListItem Text="Decline" Value="1" />
+				<telerik:ButtonListItem Text="Accept" Value="0" Selected="true" />
+				<telerik:ButtonListItem Text="Decline" Value="1" />
 			</Items>
 		</telerik:RadRadioButtonList>
 
